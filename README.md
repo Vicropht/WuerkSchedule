@@ -1,4 +1,4 @@
-# wurk-scheduler
+# Wuerk-scheduler
 
 ## Project setup
 ```

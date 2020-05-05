@@ -5,6 +5,6 @@ module.exports = {
 
   pwa: {
     name: 'WuerkScheduler',
-    themeColor: '#2F91BA'
-  }
+    themeColor: '#2F91BA',
+  },
 };
